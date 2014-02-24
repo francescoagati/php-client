@@ -1,0 +1,13 @@
+{
+    "name": "veespo/veespo-api",
+    "description": "PHP wrapper for Veespo Api",
+    "authors": [
+        {
+            "name": "francescoagati",
+            "email": "francescoagati1975@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "v3.8.1"
+    }
+}
