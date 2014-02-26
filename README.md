@@ -2,7 +2,26 @@
 
 ##Php Wrapper for Veespo Api
 
-install with composer TODO
+###install with composer 
+
+in your composer.json repositories section
+
+```
+ "repositories": [
+   {
+     "type": "vcs",
+     "url": "https://github.com/francescoagati/php-client.git"
+   }
+  ],
+```
+
+and in your composer.json require section
+
+```
+ "require": {
+  "veespo/veespo-api": "master"
+ }
+```
 
 ###Generate a token with Api
 
